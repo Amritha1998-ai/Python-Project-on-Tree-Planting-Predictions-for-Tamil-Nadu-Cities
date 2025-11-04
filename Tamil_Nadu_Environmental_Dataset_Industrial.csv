@@ -1,0 +1,39 @@
+﻿District,Latitude,Longitude,Human Population 2025,Vehicle Pollution Index,Pollution Offset Ratio,Tree Planting Priority Score,Green Cover %,Recommended Tree Species,Estimated CO2 Absorption (tons/tree/year),Tree Planting Cost (₹),Projected Pollution Reduction (tons/year),Industrial City,Industrial Pollution (tons/year)
+Ariyalur,8.8631,79.6347,646793,71,7.86,Very High,20.2,"Neem, Banyan, Peepal",0.26,196,251,No,0
+Chengalpattu,8.5645,77.6099,791372,56,6.93,Very High,27,"Ficus, Mango, Jamun",0.33,117,133,No,0
+Chennai,10.5371,77.705,619800,50,7.17,Very High,21.4,"Neem, Banyan, Peepal",0.24,134,228,Yes,233
+Coimbatore,10.3971,77.7198,1133525,64,11.09,Low,33.1,"Ficus, Mango, Jamun",0.24,198,131,Yes,291
+Cuddalore,10.2893,79.4124,376821,58,9.95,Very High,25.6,"Neem, Banyan, Peepal",0.22,175,89,No,0
+Dharmapuri,10.6651,80.5645,1140664,75,8.59,Low,21.3,"Tamarind, Indian Laburnum, Ficus",0.31,126,162,No,0
+Dindigul,10.0587,78.6703,460807,65,11.47,Very High,44.2,"Tamarind, Indian Laburnum, Ficus",0.21,125,111,No,0
+Erode,8.376,80.8577,1279518,69,6.2,Low,20.9,"Tamarind, Indian Laburnum, Ficus",0.21,134,92,Yes,285
+Kallakurichi,10.916,78.8418,1100780,74,8.52,Low,24.8,"Ficus, Mango, Jamun",0.21,198,251,No,0
+Kanchipuram,9.7888,78.0294,821858,59,5.74,High,24.4,"Neem, Banyan, Peepal",0.23,116,92,No,0
+Kanniyakumari,8.5026,79.9602,710075,53,6.57,High,43.8,"Ficus, Mango, Jamun",0.3,108,262,No,0
+Karur,11.734,79.6874,630194,51,11.91,Very High,41.4,"Neem, Banyan, Peepal",0.21,117,101,No,0
+Krishnagiri,11.8758,78.3392,438067,63,8.55,Low,34.4,"Tamarind, Indian Laburnum, Ficus",0.3,116,260,No,0
+Madurai,10.2269,78.8119,597866,76,7.78,Very High,24.3,"Neem, Banyan, Peepal",0.3,106,235,Yes,111
+Nagapattinam,8.455,77.2329,578585,54,5.59,Low,40.7,"Neem, Banyan, Peepal",0.21,101,177,No,0
+Namakkal,8.7221,78.5322,939422,65,8.8,Very High,41.9,"Ficus, Mango, Jamun",0.23,142,151,No,0
+Nilgiris,11.0873,80.8891,1146171,53,8.23,Very High,20.3,"Ficus, Mango, Jamun",0.3,161,201,No,0
+Perambalur,10.2041,78.8581,437204,61,6,Low,32.2,"Tamarind, Indian Laburnum, Ficus",0.33,171,189,No,0
+Pudukkottai,8.8363,77.3389,443475,79,9.97,Medium,36.5,"Tamarind, Indian Laburnum, Ficus",0.25,170,225,No,0
+Ramanathapuram,8.5131,77.3629,1080100,53,8.75,Very High,43.3,"Neem, Banyan, Peepal",0.31,169,233,No,0
+Ranipet,11.4818,79.1712,1216472,77,6.72,Medium,31.9,"Ficus, Mango, Jamun",0.28,125,79,No,0
+Salem,9.6832,77.2286,909812,77,7.74,Medium,38.9,"Tamarind, Indian Laburnum, Ficus",0.25,150,252,Yes,117
+Sivaganga,8.5151,80.1812,876223,54,6.29,High,42.2,"Ficus, Mango, Jamun",0.34,128,163,No,0
+Tenkasi,11.3239,78.8727,889063,66,10.59,Medium,24.6,"Neem, Banyan, Peepal",0.32,188,186,No,0
+Thanjavur,11.2046,76.973,1256063,58,8.52,High,23.8,"Tamarind, Indian Laburnum, Ficus",0.34,149,154,No,0
+Theni,8.6091,80.8934,469794,79,9.83,High,44.3,"Tamarind, Indian Laburnum, Ficus",0.25,143,85,No,0
+Thiruvallur,9.2765,78.9303,781177,74,8.21,Medium,36.6,"Neem, Banyan, Peepal",0.2,148,267,No,0
+Thiruvarur,10.6887,79.1401,791975,53,9.13,Very High,28.5,"Tamarind, Indian Laburnum, Ficus",0.25,183,243,No,0
+Thoothukudi,8.1496,77.468,1019729,73,8.67,Low,26.4,"Neem, Banyan, Peepal",0.27,184,176,Yes,67
+Tiruchirappalli,8.8234,78.1131,1286565,75,7.37,Medium,32.5,"Tamarind, Indian Laburnum, Ficus",0.31,184,195,Yes,241
+Tirunelveli,8.5915,78.4694,370502,72,10.2,Very High,36.5,"Ficus, Mango, Jamun",0.24,158,173,No,0
+Tiruppur,9.9636,79.6284,407841,58,5.05,Low,30.2,"Tamarind, Indian Laburnum, Ficus",0.34,127,168,Yes,159
+Tiruvannamalai,8.2473,80.4765,1028516,68,10.43,High,40.7,"Ficus, Mango, Jamun",0.26,177,210,No,0
+Vellore,10.2397,76.0309,687528,61,11.57,Very High,31.8,"Tamarind, Indian Laburnum, Ficus",0.22,113,84,Yes,190
+Villupuram,10.2992,78.1218,540498,63,7.2,Very High,37,"Neem, Banyan, Peepal",0.22,109,75,No,0
+Virudhunagar,11.5527,78.8499,1071319,64,9.1,Medium,33.8,"Ficus, Mango, Jamun",0.28,106,87,No,0
+Karaikal,8.0792,80.9236,722556,72,7.5,Medium,22.7,"Neem, Banyan, Peepal",0.23,189,252,No,0
+Mayiladuthurai,8.5523,76.2513,500901,76,6.31,Medium,22.1,"Ficus, Mango, Jamun",0.29,162,221,No,0
